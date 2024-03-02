@@ -1,2 +1,3 @@
 new_repo
 changes for test_branch
+test merge conflict 
